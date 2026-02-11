@@ -1,5 +1,5 @@
 XStatic-Angular-Vis
---------------
+-------------------
 
 Angular-Vis JavaScript library packaged for setuptools (easy_install) / pip.
 
